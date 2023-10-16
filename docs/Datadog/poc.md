@@ -1,8 +1,12 @@
-~~ADEO contract for IS 7~~
-
 ## Service Availability Definitions
 
 In Order to calculate the availability of the service, three indicators are taken into account.
+
+1. The service is available.
+2. The service is online.
+3. The service response time is under the defined latency
+
+This indicators will consider the following major features/functions:
 
 1. Login
 2. Creation of a design/project
@@ -12,7 +16,7 @@ In Order to calculate the availability of the service, three indicators are take
 6. Display pricing
 7. Retrieve item list for design/project
 
-**Indicato 1 - Availability Calculation** = SR1 / TR1 for each major function listed above 
+**Indicator 1 - Availability Calculation** = SR1 / TR1 for each major function listed above 
 SR1 = Total # of Requests in the Reporting Period with an http response code below 500
 TR1 = Total # of Requests in Reporting Period
 
