@@ -1,4 +1,5 @@
 site_name: Ideal Spaces
 site_url: https://example.com
+docs_dir: ideal-spaces
 theme:
   name: material
