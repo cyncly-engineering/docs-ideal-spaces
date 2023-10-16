@@ -9,4 +9,4 @@
 
 ### Azure integration for enabling APM
 
-[![Azure event hub requirment](docs/image/az-dd-trace-arch.png)](https://docs.datadoghq.com/serverless/azure_app_services/azure_app_services_windows/?tab=net#programmatic-management)
+[<img src="../image/az-dd-trace-arch.png">](https://docs.datadoghq.com/serverless/azure_app_services/azure_app_services_windows/?tab=net#programmatic-management)
