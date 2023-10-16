@@ -1,3 +1,0 @@
-# MS Team
-
-## Channels
