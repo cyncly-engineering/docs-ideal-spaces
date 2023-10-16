@@ -17,13 +17,17 @@ This indicators will consider the following major features/functions:
 7. Retrieve item list for design/project
 
 **Indicator 1 - Availability Calculation** = SR1 / TR1 for each major function listed above 
+
 SR1 = Total # of Requests in the Reporting Period with an http response code below 500
+
 TR1 = Total # of Requests in Reporting Period
 
 **Indicator 2 - Online Calculation** = SR2 / TR2 for synthetic requests to be defined(see section Yearly review)
+
 SR2 = Total # of Requests in Reporting Period with an http response code below 400
+
 TR2 = Total # of Requests in Reporting Period
 
 **Indicator 3 - Latency** The latency calculation is to be defined(see section Yearly review)
 
-**Overall Service Availability Calculation** = FOr a given period of time, the Service availability will always be the lowest availability of the three indicators above.
+**Overall Service Availability Calculation** = For a given period of time, the Service availability will always be the lowest availability of the three indicators above.
