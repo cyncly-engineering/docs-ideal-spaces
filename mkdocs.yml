@@ -1,4 +1,5 @@
 site_name: Ideal Spaces
 site_url: https://example.com
+repo_url: https://github.com/cyncly-engineering/docs-ideal-spaces.git
 theme:
   name: material
