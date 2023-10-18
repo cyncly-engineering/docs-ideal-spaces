@@ -6,6 +6,9 @@
 1. Disable Application insights and hence no new entries in AZ Log analytics 
 1. Any services or reporting build on top of Log analytics will be broken 
 1. Duplicate Persistant of logs is not a valid concerns 
+1.  if you want to send resource and activity logs you can run the automated install form here to automatically set up an event hub in your Azure account to collect these logs and have them forwarded to DD.
+https://docs.datadoghq.com/logs/guide/azure-logging-guide/?tab=automatedinstallation
+This will give further info on the Web Apps/Functions themselves from an infrastructure perspective
 
 ### Azure integration for enabling APM
 
