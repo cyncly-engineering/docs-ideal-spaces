@@ -5,30 +5,44 @@
 ## Estimate duration and effort
 
 ## Scope of POC 
-1. Integration 
+1. Integration
+
 a. Azure DevOps ![](https://geps.dev/progress/100)
 b. Azure severless ![](https://geps.dev/progress/100)
 c. MS Team ![](https://geps.dev/progress/10)
 d. SSO with SAML ![](https://geps.dev/progress/0)
+
 1. Tags ![](https://geps.dev/progress/100)
+
 1. Agent ![](https://geps.dev/progress/100)
+
 1. Logs ingestion ![](https://geps.dev/progress/100)
+
 a. Rentention policy ![](https://geps.dev/progress/0)
 b. Archived policy ![](https://geps.dev/progress/0)
+
 1. APM ![](https://geps.dev/progress/100) 
+
 1. UX Monitoring 
+
 a. Real User Monitoring ![](https://geps.dev/progress/100)
 b. API Synthetic Monitoring ![](https://geps.dev/progress/0)
 c. Browser Synthetic Monitoring ![](https://geps.dev/progress/0) 
+
 1. Security 
 a. Application security ![](https://geps.dev/progress/100)
 b. Cloud SIEM ![](https://geps.dev/progress/0)
+
 1. SLIs/SLOs 
+
 a. Uptime monitoring ![](https://geps.dev/progress/0)
 b. Metrics based SLOs ![](https://geps.dev/progress/100)
 c. Monitoring based SLOs ![](https://geps.dev/progress/0)
+
 1. Dashboards ![](https://geps.dev/progress/100)
+
 1. Monitoring ![](https://geps.dev/progress/100)
+
 a. Watchdog ![](https://geps.dev/progress/0)
 b. Anomaly detection ![](https://geps.dev/progress/0)
 c. Metrics forecast ![](https://geps.dev/progress/0)
