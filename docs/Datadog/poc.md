@@ -11,9 +11,11 @@
 
     b. Azure severless ![](https://geps.dev/progress/100)
 
-    c. MS Team ![](https://geps.dev/progress/10)
+    c. MS Team ![](https://geps.dev/progress/30) Connector is avialable now
 
     d. SSO with SAML ![](https://geps.dev/progress/0)
+
+    d. USM Univeral service monitoring ![](https://geps.dev/progress/0)
 
 1. Tags ![](https://geps.dev/progress/100)
 
@@ -24,6 +26,8 @@
     a. Rentention policy ![](https://geps.dev/progress/0)
     
     b. Archived policy ![](https://geps.dev/progress/0)
+
+    c. Rotation policy ![](https://geps.dev/progress/0)
 
 1. APM ![](https://geps.dev/progress/100) 
 
@@ -43,7 +47,7 @@
 
 1. SLIs/SLOs 
 
-    a. Uptime monitoring ![](https://geps.dev/progress/0)
+    a. Uptime monitoring ![](https://geps.dev/progress/0) 
     
     b. Metrics based SLOs ![](https://geps.dev/progress/100)
     
@@ -55,11 +59,15 @@
 
     a. Watchdog ![](https://geps.dev/progress/0)
     
-    b. Anomaly detection ![](https://geps.dev/progress/0)
+    b. Anomaly detection ![](https://geps.dev/progress/50) Catalog service request ends rate 100% 5xx errors - this might indicate that the service availability has severely impacted.
     
     c. Metrics forecast ![](https://geps.dev/progress/0)
     
     d. Outlier detection ![](https://geps.dev/progress/0)
+
+    e. Forecast monitoring ![](https://geps.dev/progress/50) catalogs requests rate >= 20, will get alerts or logs filling up fast, alert a week before for rotation policy or forecast biz KPIs
+
+    f. manage downtime ![](https://geps.dev/progress/0)
 
 ## Resources
 

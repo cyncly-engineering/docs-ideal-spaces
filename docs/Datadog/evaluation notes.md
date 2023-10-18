@@ -9,6 +9,7 @@
 1.  if you want to send resource and activity logs you can run the automated install form here to automatically set up an event hub in your Azure account to collect these logs and have them forwarded to DD.
 https://docs.datadoghq.com/logs/guide/azure-logging-guide/?tab=automatedinstallation
 This will give further info on the Web Apps/Functions themselves from an infrastructure perspective
+1. Need to have organization’s tag policies https://docs.datadoghq.com/monitors/settings/#tag-policies
 
 ### Azure integration for enabling APM
 
