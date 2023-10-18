@@ -91,7 +91,9 @@
     or; forecast biz KPIs
 
     f. Manage downtime ![](https://geps.dev/progress/0)
+
 1. Working with incident - declare incident, publish postmortem ![](https://geps.dev/progress/0)
+
 1. Dora metric reporting ![](https://geps.dev/progress/0)
 
 1. Best practises
