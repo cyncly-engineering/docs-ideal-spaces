@@ -9,17 +9,25 @@
 
     a. Azure DevOps ![](https://geps.dev/progress/100)
 
-    b. Azure severless ![](https://geps.dev/progress/100)
-
-    c. MS Team ![](https://geps.dev/progress/30) Connector is avialable now
+    c. MS Team ![](https://geps.dev/progress/30) 
+    Datadog Connector is added in MS Team
 
     d. SSO with SAML ![](https://geps.dev/progress/0)
 
-    d. USM Univeral service monitoring ![](https://geps.dev/progress/0)
+    
 
-1. Tags ![](https://geps.dev/progress/100)
 
-1. Agent ![](https://geps.dev/progress/100)
+1. Infrastructure
+
+    a. Azure severless ![](https://geps.dev/progress/100)
+
+    b. Agent ![](https://geps.dev/progress/100)
+
+    c. Univeral service monitoring ![](https://geps.dev/progress/0)
+
+1. Metrics ![](https://geps.dev/progress/100)
+
+    a. Custom metrics ![](https://geps.dev/progress/100)
 
 1. Logs ingestion ![](https://geps.dev/progress/100)
 
@@ -30,6 +38,10 @@
     c. Rotation policy ![](https://geps.dev/progress/0)
 
 1. APM ![](https://geps.dev/progress/100) 
+
+    a. Connect traces with RUM ![](https://geps.dev/progress/0)
+
+    b. Connect traces with logs ![](https://geps.dev/progress/0)
 
 1. UX Monitoring 
 
@@ -55,19 +67,38 @@
 
 1. Dashboards ![](https://geps.dev/progress/100)
 
+    a. Organizational overview ![](https://geps.dev/progress/0)
+
+    b. Product/service dashboard ![](https://geps.dev/progress/100)
+
 1. Monitoring ![](https://geps.dev/progress/100)
 
     a. Watchdog ![](https://geps.dev/progress/0)
     
-    b. Anomaly detection ![](https://geps.dev/progress/50) Catalog service request ends rate 100% 5xx errors - this might indicate that the service availability has severely impacted.
+    b. Anomaly detection ![](https://geps.dev/progress/50) 
+    For example: 
+    service response rate 100% 5xx errors - this might indicates that the service is offline.
+    should send a notification
     
     c. Metrics forecast ![](https://geps.dev/progress/0)
     
     d. Outlier detection ![](https://geps.dev/progress/0)
 
-    e. Forecast monitoring ![](https://geps.dev/progress/50) catalogs requests rate >= 20, will get alerts or logs filling up fast, alert a week before for rotation policy or forecast biz KPIs
+    e. Forecast monitoring ![](https://geps.dev/progress/50) 
+    For example: 
+    requests rate >= 20; should get alerts 
+    or; logs filling up fast, alert a week before for rotation policy 
+    or; forecast biz KPIs
 
-    f. manage downtime ![](https://geps.dev/progress/0)
+    f. Manage downtime ![](https://geps.dev/progress/0)
+1. Working with incident - declare incident, publish postmortem ![](https://geps.dev/progress/0)
+1. Dora metric reporting ![](https://geps.dev/progress/0)
+
+1. Best practises
+
+    a. Tagging resources ![](https://geps.dev/progress/100)
+
+    b. Org/Datadog tag policy ![](https://geps.dev/progress/50)
 
 ## Resources
 
