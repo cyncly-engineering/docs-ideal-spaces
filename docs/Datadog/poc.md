@@ -9,12 +9,13 @@
 
     a. Azure DevOps ![](https://geps.dev/progress/100)
 
-    c. MS Team ![](https://geps.dev/progress/30) 
+    c. MS Team ![](https://geps.dev/progress/100)
+
     Datadog Connector is added in MS Team
 
     d. SSO with SAML ![](https://geps.dev/progress/0)
 
-    
+  
 
 
 1. Infrastructure
@@ -39,7 +40,7 @@
 
 1. APM ![](https://geps.dev/progress/100) 
 
-    a. Connect traces with RUM ![](https://geps.dev/progress/0)
+    a. Connect traces with RUM ![](https://geps.dev/progress/100)
 
     b. Connect traces with logs ![](https://geps.dev/progress/0)
 
@@ -76,6 +77,7 @@
     a. Watchdog ![](https://geps.dev/progress/0)
     
     b. Anomaly detection ![](https://geps.dev/progress/50) 
+    
     For example: 
     service response rate 100% 5xx errors - this might indicates that the service is offline.
     should send a notification
@@ -85,6 +87,7 @@
     d. Outlier detection ![](https://geps.dev/progress/0)
 
     e. Forecast monitoring ![](https://geps.dev/progress/50) 
+    
     For example: 
     requests rate >= 20; should get alerts 
     or; logs filling up fast, alert a week before for rotation policy 
@@ -104,7 +107,9 @@
 
 ## Resources
 
-## 
+Gabriel, Pandurang, Siddhesh, Jestha
+
+
 
 
 
