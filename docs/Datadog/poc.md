@@ -15,9 +15,6 @@
 
     d. SSO with SAML ![](https://geps.dev/progress/0)
 
-  
-
-
 1. Infrastructure
 
     a. Azure severless ![](https://geps.dev/progress/100)
@@ -42,7 +39,7 @@
 
     a. Connect traces with RUM ![](https://geps.dev/progress/100)
 
-    b. Connect traces with logs ![](https://geps.dev/progress/0)
+    b. Connect traces with logs ![](https://geps.dev/progress/100)
 
 1. UX Monitoring 
 
@@ -60,11 +57,11 @@
 
 1. SLIs/SLOs 
 
-    a. Uptime monitoring ![](https://geps.dev/progress/0) 
+    a. Uptime monitoring ![](https://geps.dev/progress/50) 
     
     b. Metrics based SLOs ![](https://geps.dev/progress/100)
     
-    c. Monitoring based SLOs ![](https://geps.dev/progress/0)
+    c. Monitoring based SLOs ![](https://geps.dev/progress/50)
 
 1. Dashboards ![](https://geps.dev/progress/100)
 
@@ -108,12 +105,6 @@
 ## Resources
 
 Gabriel, Pandurang, Siddhesh, Jestha
-
-
-
-
-
-
 
 ## Service Availability Definitions
 
