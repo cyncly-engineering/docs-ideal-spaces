@@ -1,5 +1,17 @@
 # Enabling Datadog for LMFR prod
 
+## Important links 
+
+1. [LMFR Dashbroad](https://p.datadoghq.eu/sb/aee7596e-6682-11ee-a351-da7ad0900005-7a2d23d23a6dab9beb8fd8833e071f33)
+
+<iframe width="100%" height="450" name="LMFR Dashboard" src="https://p.datadoghq.eu/sb/aee7596e-6682-11ee-a351-da7ad0900005-7a2d23d23a6dab9beb8fd8833e071f33"></iframe>
+
+1. [LMFR traces](https://app.datadoghq.eu/apm/traces)
+1. [Logs]()
+1. [Logs error outlier](https://app.datadoghq.eu/watchdog/outlier/3bb742d3-8214-37bb-9110-9f2ad02474f9)
+1. [Application security](https://app.datadoghq.eu/security/appsec)
+1. 
+
 ## Available features in Datadog platform
 1. Integration
 
@@ -47,7 +59,7 @@
 
 1. Security 
     
-    a. Application security ![](https://geps.dev/progress/100)
+    a. Application security ![](https://geps.dev/progress/50)
     
     b. Cloud SIEM ![](https://geps.dev/progress/0)
 
@@ -138,4 +150,4 @@ TR2 = Total # of Requests in Reporting Period
 
 ## Status of features available 
 
-<iframe width="100%" height="150" name="status" src="https://cyncly-my.sharepoint.com/:x:/p/jestha_wangkheirakpam/EXf-lPd4HaBPurHrHs_KJ9EB7g4jseZvdQClCU0Nc4j7Ng?e=AZbJVA"></iframe>
+<iframe width="100%" height="150" name="status" src="https://cyncly-my.sharepoint.com/:x:/p/jestha_wangkheirakpam/EXf-lPd4HaBPurHrHs_KJ9EBwo0NWDM38lS-HkV2UT90JA?e=V9wYrC"></iframe>
