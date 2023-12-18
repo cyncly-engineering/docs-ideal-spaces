@@ -14,3 +14,7 @@ This will give further info on the Web Apps/Functions themselves from an infrast
 ### Azure integration for enabling APM
 
 [<img width="40px" src="../image/az-dd-trace-arch.png">](https://docs.datadoghq.com/serverless/azure_app_services/azure_app_services_windows/?tab=net#programmatic-management)
+
+### Status of features enable
+
+<iframe src="https://cyncly-my.sharepoint.com/:x:/r/personal/jestha_wangkheirakpam_cyncly_com/Documents/Enabling%20dd%20in%20ADEO%20instance%20-%20timeline.xlsx?d=wf794fe771d784fa0bab1eb1ecfca27d1&csf=1&web=1&e=pyusVA&nav=MTVfezJBNjcwMkQ4LUVDMjktNDY2Ni1COEFBLUU5OTg1Rjg5M0U1MX0" title="status report"></iframe>
