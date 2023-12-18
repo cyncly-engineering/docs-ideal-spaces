@@ -1,4 +1,4 @@
-# Enabling Datadog for LMFR prod
+# Datadog in LMFR prod
 
 ## Important links 
 
@@ -155,5 +155,7 @@ TR2 = Total # of Requests in Reporting Period
 **Overall Service Availability Calculation** = For a given period of time, the Service availability will always be the lowest availability of the three indicators above.
 
 ## Status of features available 
+
+[IS 7 map](https://cyncly-my.sharepoint.com/:x:/p/jestha_wangkheirakpam/EXf-lPd4HaBPurHrHs_KJ9EBwo0NWDM38lS-HkV2UT90JA?e=V9wYrC)
 
 <iframe width="100%" height="150" name="status" src="https://cyncly-my.sharepoint.com/:x:/p/jestha_wangkheirakpam/EXf-lPd4HaBPurHrHs_KJ9EBwo0NWDM38lS-HkV2UT90JA?e=V9wYrC"></iframe>
