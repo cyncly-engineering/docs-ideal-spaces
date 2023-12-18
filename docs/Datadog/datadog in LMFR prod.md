@@ -9,8 +9,14 @@
 1. [LMFR traces](https://app.datadoghq.eu/apm/traces)
 1. [Logs]()
 1. [Logs error outlier](https://app.datadoghq.eu/watchdog/outlier/3bb742d3-8214-37bb-9110-9f2ad02474f9)
+1. [Monitoring](https://app.datadoghq.eu/monitors/manage?q=env%3Aprod&order=desc)
 1. [Application security](https://app.datadoghq.eu/security/appsec)
-1. 
+
+## Upcoming tasks
+
+1. Alerting on what matters 
+1. Investigating performance issues 
+1. Scaling events & alerts 
 
 ## Available features in Datadog platform
 1. Integration
