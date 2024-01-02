@@ -14,7 +14,9 @@
 
 ## Upcoming tasks
 
-1. Alerting on what matters 
+1. Alerting on what matters
+    a. send alert when a particular issue occured x times in a specific timeframe.
+    
 1. Investigating performance issues 
 1. Scaling events & alerts 
 
